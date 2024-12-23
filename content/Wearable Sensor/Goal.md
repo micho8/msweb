@@ -17,7 +17,3 @@ I will design a circuit to extract the data wirelessly using the sensing of the 
 
 
 It is also important that I design a small footprint for the device.
-
-## Low Power Consumption:
-
-The goal is to optimize the capacity that is tied to the size of the battery.
