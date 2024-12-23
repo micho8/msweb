@@ -1,8 +1,7 @@
 ---
-title: "Untitled"
+title: Low Power Consumption
 draft: false
 tags:
-  - 
 ---
  The goal is to optimize the capacity that is tied to the size of the battery.
 ![image1](Wearable%20Sensor/referencedImages/image1.png)
