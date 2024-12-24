@@ -1,7 +1,7 @@
 ---
-title: "Arthroscopic Knee Surgery"
+title: • Arthroscopic Knee Surgery
 draft: false
 tags:
-  - 
 ---
  
+
