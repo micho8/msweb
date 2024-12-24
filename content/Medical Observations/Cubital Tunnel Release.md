@@ -1,7 +1,6 @@
 ---
-title: "Cubital Tunnel Release"
+title: • Cubital Tunnel Release
 draft: false
 tags:
-  - 
 ---
  

@@ -1,7 +1,6 @@
 ---
-title: "Lateral Malleolus Fracture ORIF"
+title: • Lateral Malleolus Fracture ORIF
 draft: false
 tags:
-  - 
 ---
  

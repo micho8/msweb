@@ -1,7 +1,6 @@
 ---
-title: "Rotator Cuff Repair (Arthroscopic)"
+title: • Rotator Cuff Repair (Arthroscopic)
 draft: false
 tags:
-  - 
 ---
  

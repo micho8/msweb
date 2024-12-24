@@ -1,7 +1,6 @@
 ---
-title: "Hand Removal of Hardware"
+title: • Hand Removal of Hardware
 draft: false
 tags:
-  - 
 ---
  

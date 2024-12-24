@@ -1,7 +1,6 @@
 ---
-title: "Clavicle Fracture ORIF"
+title: • Clavicle Fracture ORIF
 draft: false
 tags:
-  - 
 ---
  

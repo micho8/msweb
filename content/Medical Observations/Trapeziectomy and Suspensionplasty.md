@@ -1,7 +1,6 @@
 ---
-title: "Trapeziectomy and Suspensionplasty"
+title: • Trapeziectomy and Suspensionplasty
 draft: false
 tags:
-  - 
 ---
  
