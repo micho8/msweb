@@ -24,3 +24,5 @@ When choosing connectivity modules, we must choose pre-certified modules. - Q. W
 Another consideration that we must look after is if we are going to combine Bluetooth or Wifi, we must consider that they are on the same frequency. By using RF switches to share the same antena, this will enable us to have a small footprint device. - Q. WHY??
 
 Q. Will I be using Bluetooth, Wi-Fi, or both??
+
+I am seeing if this works...........???
