@@ -33,7 +33,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "",
+      createdWith: "Email: michaelshara@g.ucla.edu",
       // createdWith: "Created with",
     },
     graph: {
