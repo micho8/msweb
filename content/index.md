@@ -8,8 +8,9 @@ Welcome to my personal volt where I publish progress of my projects and learning
 
 # Contents
 ## [[Medical Observations]]
-## [[Personal Projects]]
-## [[Course Projects]]
+## [[Projects]]
+## [[Resume]]
+
 
 
 
