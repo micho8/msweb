@@ -1,1 +1,1 @@
-![[2024_Resume_Tech_AND_MED.pdf]]
+![[-1.-2024_Resume_Tech_AND_MED_2page.pdf]]
