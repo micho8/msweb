@@ -3,34 +3,51 @@ title: "Contents: Medical Observations"
 draft: false
 tags:
 ---
-[[Arthroscopic Knee Surgery]]
+## Operating Room Observations:
+________________________________________________________________________
+[[Clavicle Fracture Open Reduction Internal Fixation]]
 
-[[Clavicle Fracture ORIF]]
+[[Arthroscopic Partial Meniscectomy]]
+
+[[Posterior Interosseous Nerve (PIN) Decompression]]
+
+[[Distal Radius Fracture Open Reduction Internal Fixation]]
+
+[[Arthroscopic Rotator Cuff Repair]]
 
 [[Cubital Tunnel Release]]
 
-[[Distal Radius Fracture ORIF]]
+[[Dorsal Wrist Ganglion Cyst Excision]]
 
-[[Dorsal Wrist Ganglion Excision]]
+[[Percutaneous or Open Trigger Finger Release]]
 
-[[Hand Removal of Hardware]]
+[[Cubital Tunnel Decompression]]
 
-[[Lateral Malleolus Fracture ORIF]]
+[[Left Lateral Malleolus Fracture ORIF]]
 
-[[Open Clavicle Fracture Surgery]]
+[[Left Trapeziectomy and Suspensionplasty]]
 
-[[Open Triangular Fibrocartilage Complex Repair Versus Reconstruction]]
+[[Right Clavicle Fracture ORIF]]
 
-[[Posterior Interosseous Nerve (PIN) Release Surgery]]
+[[Right Proximal Humerus Fracture Open Reduction Internal Fixation (ORIF)]]
 
-[[Proximal Humerus Fracture Open Reduction Internal Fixation (ORIF)]]
+[[Right Wrist Extensor Tenosynovectomy (Ganglion Cyst Excision)]]
 
-[[Rotator Cuff Repair (Arthroscopic)]]
+[[Shoulder Arthroscopic Debridement Open Biceps Tenodesis / Subacromial Decompression]]
 
-[[Shoulder Arthroscopic Debridement with Open Biceps Tenodesis]]
+[[Open Triangular Fibrocartilage Complex Repair Versus Reconstruction with Palmaris Autograft and Panning]]
 
-[[Trapeziectomy and Suspensionplasty]]
+[[Right hand Removal of hardware]]
 
-[[Trigger Finger Release]]
+[[Right Carpal Tunnel Release]]
 
-[[Wrist Extensor Tenosynovectomy (Ganglion Cyst Excision)]] 
+[[Left distal radius fracture malunion correction]]
+
+[[Right thumb metacarpal fracture open reduction internal fixation versus closed reduction percutaneous pinning / left distal radius fracture open reduction internal fixation. (Left) left distal radius fracture open reduction internal fixation]]
+
+[[(Right) Right wrist removal hardware / anterior interosseous neurectomy / posterior interosseous neurectomy]]
+
+[[Left Revision Carpal Tunnel Release / Hypothenar fat pad flap / left cubical tunnel release / possible anterior transposition]]
+
+
+## In-Clinic Observations:
