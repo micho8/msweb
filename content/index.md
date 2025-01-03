@@ -7,6 +7,7 @@ Hello! My name is Michael Shara - I am an undergraduate Electrical Engineering s
 
 Welcome to my personal volt where I publish progress of my projects and learnings that are related to my goals. Please reach me at michaelshara@g.ucla.edu if you have any questions!
 
+## Crusade Sports Medicine
 Visit my <a href="https://www.crusadezone.com">Crusade Sports Medicine, Non-Profit Organization & Research Journal</a> website to see all my work on researching sports medicine and developing a program to guide student-athlete's to hit target performance goals based on our science-based meta analysis research.
 
 # Contents
