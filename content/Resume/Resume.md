@@ -1,1 +1,1 @@
-![[content/Resume/michaelshara_resume.pdf|michaelshara_resume]]
+![[michaelshara_resume.pdf]]
