@@ -14,7 +14,10 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 # Contents
 ## [[Medical Observations]]
 ## [[Projects]]
+
 ## [[Resume]]
+
+![[content/Resume/michaelsharaRes.pdf]]
 
 
 
