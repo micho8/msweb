@@ -13,10 +13,7 @@ Visit my <a href="https://www.crusadezone.com">Crusade Sports Medicine, Non-Prof
 # Contents
 ## [[Medical Observations]]
 ## [[Projects]]
-
 ## [[Resume]]
-
-![[content/Resume/michaelsharaRes.pdf]]
 
 
 
